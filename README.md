@@ -58,9 +58,12 @@ I'm a **Data Engineer** with over **3 years of hands-on experience** in designin
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SoundaryaSenthil&show_icons=true&theme=radical&hide=issues&custom_title=My%20GitHub%20Stats)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SoundaryaSenthil&layout=compact&theme=radical&langs_count=10&hide=css,html,javascript&custom_title=Most%20Used%20Languages)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SoundaryaSenthil&theme=dark&hide_border=false&layout=compact&langs_count=10)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SoundaryaSenthil&theme=dark&hide_border=false)
+### 🔥 GitHub Streak Stats
+
+[![GitHub Streak](https://git-hub-streak-stats.vercel.app?user=SoundaryaSenthil&theme=dark)](https://git.io/streak-stats)
+
 
 ![Top Repos](https://github-contributor-stats.vercel.app/api?username=SoundaryaSenthil&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
