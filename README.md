@@ -12,12 +12,13 @@ I'm a **Data Engineer** with over **3 years of hands-on experience** in designin
 - ☁️ Specialized in **Azure Cloud Services**:
   - Azure Data Factory
   - Azure Databricks
-  - Azure Synapse Analytics
-  - Microsoft Fabric
-  - Snowflake
-  - Power BI
   - Unity Catalog
   - Delta Live Tables (DLT)
+  - Azure Synapse Analytics
+  - Microsoft Fabric
+-  Data warehousing : Snowflake
+-  Data visualization:  Power BI
+
 - 🔄 Building **scalable, efficient end-to-end data pipelines**
 - 🤝 Cross-functional collaboration to meet business goals
 - 📚 Passionate about **continuous learning** in cloud & data technologies
