@@ -71,8 +71,7 @@ I'm a **Data Engineer** with over **3 years of hands-on experience** in designin
 ---
 
 ### 📫 Contact Me
-
-- Email: soundaryasenthil520@gmail.com  
+ 
 - LinkedIn: [Soundarya S - LinkedIn](https://www.linkedin.com/in/soundarya-s-dataengineer)  
 - Medium: [@soundaryasenthil510](https://medium.com/@soundaryasenthil510)
 
