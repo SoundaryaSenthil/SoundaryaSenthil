@@ -2,7 +2,7 @@
 
 ### 💼 Seasoned Data Engineer | Azure & Databricks Specialist
 
-I'm a **Data Engineer** with over **3 years of hands-on experience** in designing and implementing scalable, cloud-native data solutions that empower smarter decision-making.
+I'm a **Data Engineer** with over **4 years of hands-on experience** in designing and implementing scalable, cloud-native data solutions that empower smarter decision-making.
 
 ---
 
