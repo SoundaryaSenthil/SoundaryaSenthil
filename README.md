@@ -70,11 +70,13 @@ I'm a **Data Engineer** with over **4 years of hands-on experience** in designin
 
 ---
 
-### 📫 Contact Me
+### 📫 profile and Blog
  
 - LinkedIn: [Soundarya S - LinkedIn](https://www.linkedin.com/in/soundarya-s-dataengineer)  
 - Medium: [@soundaryasenthil510](https://medium.com/@soundaryasenthil510)
-
+  
+### contact
+- Email: soundaryasenthilmano@gmail.com
 ---
 
 ![Footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=0F52BA&height=150)
